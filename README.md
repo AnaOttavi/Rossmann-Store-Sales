@@ -21,6 +21,10 @@ My strategy to solve this challenge was:
 
 **Exploratory Data Analysis**: univariate, bivariate and multivariate analysis with numerical and categorical variables.
 
+<img width="1114" alt="Screen Shot 2022-02-24 at 23 23 55" src="https://user-images.githubusercontent.com/86486485/155641816-792e1197-5594-4281-96e3-3816a1b343c9.png">
+
+<img width="1111" alt="Screen Shot 2022-02-24 at 23 25 03" src="https://user-images.githubusercontent.com/86486485/155641907-90f8cd78-6196-4ddc-bd73-28a4b2137d35.png">
+
 **Feature Selection**: split dataset and Boruta Algorithm.
 
 **Machine Learning Modelling**: machine learning model training.
@@ -54,10 +58,11 @@ My strategy to solve this challenge was:
 # 6. Machine Learning Modelo Performance
 <img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
 
-<img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
+<img width="1118" alt="Screen Shot 2022-02-24 at 23 26 06" src="https://user-images.githubusercontent.com/86486485/155642012-16961860-759e-4cc0-905a-70716865a7b4.png">
 
-# 7. Business Results
-<img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
+# 7. Business Result
+
+<img width="1118" alt="Screen Shot 2022-02-24 at 23 26 06" src="https://user-images.githubusercontent.com/86486485/155642137-7f353826-75c2-41a5-bf6e-6fb685c6bb40.png">
 
 # 8. Conclusions
 This is the first CRISP-DS cycle. The predective model presents a useful performance, but there are stores with a higher MAPE, requiring another modeling strategy. In the next CRISP-DS cycle this point should be improved.
