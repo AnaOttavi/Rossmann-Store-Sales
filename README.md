@@ -32,7 +32,7 @@ My strategy to solve this challenge was:
 **H1.** Stores with greater assortment should sell more.
 
 **H1. Validation = False:** Stores with greater assortment sell less.
-![Uploading Screen Shot 2022-02-24 at 23.18.05.png…]()
+<img width="1107" alt="Screen Shot 2022-02-24 at 23 18 05" src="https://user-images.githubusercontent.com/86486485/155641561-a53e93e0-9f6d-40c0-bdf9-28e93dd94642.png">
 
 **H2.** Stores with close competitors should sell less.
 
@@ -42,7 +42,8 @@ My strategy to solve this challenge was:
 **H7.** During Chirstmas, stores should sell more.
 
 **H7. Validation = False:** During Chirstmas holiday, stores sell less.
-![Uploading Screen Shot 2022-02-24 at 23.20.26.png…]()
+<img width="1122" alt="Screen Shot 2022-02-24 at 23 20 26" src="https://user-images.githubusercontent.com/86486485/155641598-29edaaac-90bd-4cdc-971c-e3257f31f534.png">
+
 
 # 5. Machine Learning Model Applied
 - Average Model
