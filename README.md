@@ -1,50 +1,64 @@
 # Rossmann-Store-Sales
 Project from Data Science Community, mentoring by Meigarom Lopes. This repository contains script that predicts the next customer purchase using a Time Series approach.
-Status: on going
 
-# 1. Business Problem.
-# 2. Business Assumptions.
+**Dataset**: https://www.kaggle.com/c/rossmann-store-sales
+
+# 1. Business Problem
+Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
+
+# 2. Business Assumptions
+- The CFO has problems to setting the budget and making decisions.
+- Stores do not have Competition Distance information, the assumptions was that the distance should be the greatest distance observed in the dataset.
+- Managers do not uniformly apply sales forecasting.
+- A predictive sales model for all stores.
+
 # 3. Solution Strategy
 My strategy to solve this challenge was:
 
-Step 01. Data Description:
+**Data Description**: descriptive analysis to identify outliers and to provide metrics such as mean, median, maximum, minimum, range, skew, curtosis and standard deviation. Cheeck and fillout NA.
 
-Step 02. Feature Engineering:
+**Feature Engineering**: create new attributes based on the original variables using mindmap hypothesis.
 
-Step 03. Data Filtering:
+**Exploratory Data Analysis**: univariate, bivariate and multivariate analysis with numerical and categorical variables.
 
-Step 04. Exploratory Data Analysis:
+**Feature Selection**: split dataset and Boruta Algorithm.
 
-Step 05. Data Preparation:
+**Machine Learning Modelling**: machine learning model training.
 
-Step 06. Feature Selection:
-
-Step 07. Machine Learning Modelling:
-
-Step 08. Hyperparameter Fine Tunning:
-
-Step 09. Convert Model Performance to Business Values:
-
-Step 10. Deploy Modelo to Production:
+**Convert Model Performance to Business Values**: deliver a dataset with the worst and best scenario, MAPE ana MAE scores.
 
 # 4. Top 3 Data Insights
-Hypothesis 01:
 
-True/False.
+**H1.** Stores with greater assortment should sell more.
 
-Hypothesis 02:
+**H1. Validation = False:** Stores with greater assortment sell less.
 
-True/False.
+**H2.** Stores with close competitors should sell less.
 
-Hypothesis 03:
+**H2. Validation = False:** Stores with close competitors sell more.
 
-True/False.
+**H7.** During Chirstmas, stores should sell more.
+
+**H7. Validation = False:** During Chirstmas holiday, stores sell less.
 
 # 5. Machine Learning Model Applied
+- Average Model
+- Linear Regression Model
+- Linear Regression Regularized Model (Lasso)
+- Random Forest Regressor
+
 # 6. Machine Learning Modelo Performance
+<img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
+
+<img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
+
 # 7. Business Results
+<img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
+
 # 8. Conclusions
-# 9. Lessons Learned
+This is the first CRISP-DS cycle. The predective model presents a useful performance, but there are stores with a higher MAPE, requiring another modeling strategy. In the next CRISP-DS cycle this point should be improved.
+
 # 10. Next Steps to Improve
-# LICENSE
+Treat the problem with XGboost algorithm.
+
 # All Rights Reserved - Comunidade DS 2021
