@@ -64,12 +64,12 @@ My strategy to solve this challenge was:
 
 <img width="1118" alt="Screen Shot 2022-02-24 at 23 26 06" src="https://user-images.githubusercontent.com/86486485/155642137-7f353826-75c2-41a5-bf6e-6fb685c6bb40.png">
 
-
 **Business Performance**
-![image](https://user-images.githubusercontent.com/86486485/156441147-fc495fb5-a63b-4e9d-b867-60f30fabdcd3.png)
+![image](https://user-images.githubusercontent.com/86486485/156442243-f0752292-3d86-4129-8acf-c9792c9ba057.png)
 
 **Total Performance**
-![image](https://user-images.githubusercontent.com/86486485/156441654-96089628-a842-49cc-a692-abacb5e86825.png)
+
+![image](https://user-images.githubusercontent.com/86486485/156442280-afe3ae36-a6a0-42ee-98c4-08ac5359c495.png)
 
 # 8. Conclusions
 This is the first CRISP-DS cycle. The predective model presents a useful performance, but there are stores with a higher MAPE, requiring another modeling strategy. In the next CRISP-DS cycle this point should be improved.
