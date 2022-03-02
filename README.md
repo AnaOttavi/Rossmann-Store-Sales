@@ -65,6 +65,7 @@ My strategy to solve this challenge was:
 <img width="1118" alt="Screen Shot 2022-02-24 at 23 26 06" src="https://user-images.githubusercontent.com/86486485/155642137-7f353826-75c2-41a5-bf6e-6fb685c6bb40.png">
 
 **Business Performance**
+
 ![image](https://user-images.githubusercontent.com/86486485/156442243-f0752292-3d86-4129-8acf-c9792c9ba057.png)
 
 **Total Performance**
