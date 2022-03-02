@@ -56,16 +56,14 @@ My strategy to solve this challenge was:
 - Random Forest Regressor
 
 # 6. Machine Learning Modelo Performance
-## **Final Model:** Random Forest Regressor
 
 <img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
 
 # 7. Business Result
+## **Final Model:** Random Forest Regressor
 
 <img width="1118" alt="Screen Shot 2022-02-24 at 23 26 06" src="https://user-images.githubusercontent.com/86486485/155642137-7f353826-75c2-41a5-bf6e-6fb685c6bb40.png">
 
-# 8. Conclusions
-This is the first CRISP-DS cycle. The predective model presents a useful performance, but there are stores with a higher MAPE, requiring another modeling strategy. In the next CRISP-DS cycle this point should be improved.
 
 **Business Performance**
 ![image](https://user-images.githubusercontent.com/86486485/156441147-fc495fb5-a63b-4e9d-b867-60f30fabdcd3.png)
@@ -73,7 +71,8 @@ This is the first CRISP-DS cycle. The predective model presents a useful perform
 **Total Performance**
 ![image](https://user-images.githubusercontent.com/86486485/156441654-96089628-a842-49cc-a692-abacb5e86825.png)
 
-
+# 8. Conclusions
+This is the first CRISP-DS cycle. The predective model presents a useful performance, but there are stores with a higher MAPE, requiring another modeling strategy. In the next CRISP-DS cycle this point should be improved.
 
 # 10. Next Steps to Improve
 Treat the problem with XGboost algorithm.
