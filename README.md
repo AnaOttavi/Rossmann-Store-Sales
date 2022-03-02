@@ -58,8 +58,6 @@ My strategy to solve this challenge was:
 # 6. Machine Learning Modelo Performance
 <img width="475" alt="Screen Shot 2022-02-24 at 22 59 28" src="https://user-images.githubusercontent.com/86486485/155639524-48009d57-3193-4ab1-b051-6507e96ac712.png">
 
-<img width="1118" alt="Screen Shot 2022-02-24 at 23 26 06" src="https://user-images.githubusercontent.com/86486485/155642012-16961860-759e-4cc0-905a-70716865a7b4.png">
-
 # 7. Business Result
 
 <img width="1118" alt="Screen Shot 2022-02-24 at 23 26 06" src="https://user-images.githubusercontent.com/86486485/155642137-7f353826-75c2-41a5-bf6e-6fb685c6bb40.png">
