@@ -1,5 +1,5 @@
 # Rossmann-Store-Sales
-Project from Data Science Community, mentoring by Meigarom Lopes. This repository contains script that predicts the next customer purchase using a Time Series approach.
+Project from Data Science Community, mentoring by Meigarom Lopes. This repository contains script that predicts the next customer purchase using a time series approach.
 
 **Dataset**: https://www.kaggle.com/c/rossmann-store-sales
 
